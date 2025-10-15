@@ -69,7 +69,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ---
 
 For details, see [Documentation/](Documentation) and [Report/](Report).
----
-
-
-For details, see [Documentation/](Documentation) and [Report/](Report).
